@@ -2,7 +2,7 @@
 # 🏫 Southern New Hampshire University
 
 ### 1️⃣ How can I ensure that my code, program, or software is functional and secure?
-   First, I conduct a thorough dry run to catch any typographical errors, ensuring everything is on point.
+   First, I conduct dry run to catch any typographical errors, ensuring everything is on point.
    Then, I review the product requirements to ensure that the necessary constraints are in place for the input data types,
    verifying that they meet the requirements before storing the data. For instance, I wrote JUnit tests to prevent null
    or duplicate contact entries and to ensure that appointment dates are not in the past. Additionally, I created
